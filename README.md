@@ -1,7 +1,6 @@
 <p style="color:#d65891; font-style: oblique; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
     Miss my baby so much<3
 </p>
-<!DOCTYPE html>
 <HTML>
     <HEAD>
         <TITLE> Bé Thảo yêu dấu của anh </TITLE>
